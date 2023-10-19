@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "356756729063",
+    "project_id": "hangman-binder",
+    "storage_bucket": "hangman-binder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356756729063:android:80cc29979b450dff1d4642",
+        "android_client_info": {
+          "package_name": "hr.ferit.karlabinder.hangman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356756729063-00ug990e95tmkm93971o3njk2hrnbrpi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1do01K6azjOP0ANnWwIdTam1UVpyn6IM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356756729063-00ug990e95tmkm93971o3njk2hrnbrpi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
